@@ -1,0 +1,1271 @@
+﻿std_name,Collection,Y_2046,Y_1088,DSM70459,CYC1058,Y_27106,NCYC1006,NCYC777,NBRC1802,NBRC815,Y_5509,MS300c,BY4741,Killer,Killer_Y_2046,Only_Y_2046,KHR,KHS,Func_KHR,Func_KHS
+AAA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AAB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AAD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AAE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AAG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AAH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AAI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AAK,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+AAL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+AAM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,mutant,0,1
+AAN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AAP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AAQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+AAR,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,mutant,0,1
+AAS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,canonical,1,1
+AAT,Liti1011,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,missing,canonical,0,1
+AAV,Liti1011,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,mutant,truncated,1,0
+ABA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,missing,1,0
+ABB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+ABC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,truncated,0,0
+ABD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,truncated,0,0
+ABE,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+ABF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,truncated,0,0
+ABG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+ABH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,truncated,0,0
+ABI,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,mutant,0,1
+ABK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,truncated,1,0
+ABL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,mutant,0,1
+ABM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,truncated,1,0
+ABP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+ABQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ABR,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ABS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+ABT,Liti1011,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+ABV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+ACA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,truncated,0,0
+ACB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,truncated,0,0
+ACC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,truncated,0,0
+ACD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,truncated,0,0
+ACF,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+ACG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+ACH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ACI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,mutant,0,1
+ACK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,truncated,0,0
+ACL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+ACM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,truncated,0,0
+ACN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,truncated,0,0
+ACP,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+ACQ,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,truncated,truncated,0,0
+ACR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,mutant,0,1
+ACS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,mutant,0,1
+ACT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,mutant,0,1
+ACV,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+ADA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+ADB,Liti1011,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,truncated,mutant,0,1
+ADC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ADD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+ADE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+ADF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,mutant,0,1
+ADG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,truncated,0,0
+ADH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+ADI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+ADK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ADL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ADN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ADP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+ADQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,truncated,1,0
+ADR,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,mutant,0,1
+ADS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ADT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,truncated,0,0
+ADV,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,truncated,mutant,0,1
+AEA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+AEB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AEC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+AEE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AEF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AEG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,canonical,0,1
+AEH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+AEI,Liti1011,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,mutant,truncated,1,0
+AEK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AEL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AEM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AEN,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+AEP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AEQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,mutant,0,1
+AER,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AES,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AEV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AFA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AFB,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+AFC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+AFD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+AFE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AFF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AFG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+AFH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,truncated,0,0
+AFI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AFK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AFL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AFM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,truncated,0,0
+AFN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AFP,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+AFQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+AFR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+AFS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AFT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AFV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AGA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+AGB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AGC,Liti1011,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,mutant,mutant,1,1
+AGE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AGF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AGG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AGH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+AGI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+AGK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+AGL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,mutant,0,1
+AGM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AGN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+AGP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,canonical,0,1
+AGR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AGS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+AGT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AGV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+AHA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AHB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+AHC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+AHD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AHE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,mutant,0,1
+AHF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AHG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AHH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AHI,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,canonical,0,1
+AHK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AHL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AHM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AHN,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+AHP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AHQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AHR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AHS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AHT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+AHV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AIA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AIB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,truncated,1,0
+AIC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AID,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AIE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+AIF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AII,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AIK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AIL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AIM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AIN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+AIP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AIQ,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+AIR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AIT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AKB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+AKC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+AKD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AKE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+AKG,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,truncated,mutant,0,1
+AKH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+AKI,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AKL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AKM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AKN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AKP,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+AKQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AKR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AKS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AKT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+AKV,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+ALA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ALB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ALC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ALD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ALE,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+ALG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ALH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ALI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+ALK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ALL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ALM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ALN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+ALP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ALQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ALR,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ALS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ALT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ALV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AMA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+AMB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AMC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AMD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AMF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+AMG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AMH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+AMI,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AMK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AML,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AMM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AMN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AMP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AMQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AMR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+ANA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ANC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AND,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+ANE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+ANF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+ANG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+ANH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+ANI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+ANK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+ANL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+ANM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+ANN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ANP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ANQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ANR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ANS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ANT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ANV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+APA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+APC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+APD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+APE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+APF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+APG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+APH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+API,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+APK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+APL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+APM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+APN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+APP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+APQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+APR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+APS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+APT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+APV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AQA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AQB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AQC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AQD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AQE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AQG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AQH,Liti1011,1,0,1,0,0,1,0,0,0,0,1,0,1,1,0,mutant,mutant,1,1
+AQI,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+AQM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,truncated,1,0
+AQN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AQP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AQQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+AQR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AQS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AQT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ARA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ARB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ARC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+ARE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ARG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ARH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ARI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ARK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ARL,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,missing,mutant,0,1
+ARM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ARN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ARP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ARQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+ARR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ARS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ART,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ARV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ASA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ASB,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+ASC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ASD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ASE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ASG,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+ASH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ASL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ASM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ASN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+ASP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ASR,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+ASS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+AST,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+ASV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ATA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ATB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ATC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+ATD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+ATE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ATH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ATM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ATN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+ATP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+ATQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+ATR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+ATS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+ATV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AVB,Liti1011,1,0,1,1,1,0,1,1,0,1,1,1,1,1,0,missing,truncated,0,0
+AVC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AVD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AVH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+AVI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AVK,Liti1011,1,0,0,0,1,1,0,0,0,1,1,1,1,1,0,mutant,mutant,1,1
+AVL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AVM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+AVN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AVP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AVQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AVR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AVS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AVT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+AVV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+BAA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+BAB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+BAC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+BAD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+BAE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+BAF,Liti1011,1,1,1,1,1,1,0,0,0,0,1,1,1,1,0,truncated,mutant,0,1
+BAG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BAH,Liti1011,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,truncated,truncated,0,0
+BAI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BAK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BAL,Liti1011,1,1,1,0,1,1,0,1,0,1,1,1,1,1,0,missing,truncated,0,0
+BAM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BAN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BAP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BAQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BAR,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BAS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BAT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BAV,Liti1011,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,mutant,mutant,1,1
+BBA,Liti1011,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,missing,mutant,0,1
+BBB,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+BBC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BBD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BBE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BBF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BBG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BBH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BBI,Liti1011,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,missing,mutant,0,1
+BBK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BBL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BBM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BBP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BBQ,Liti1011,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,mutant,truncated,1,0
+BBR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BBS,Liti1011,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,mutant,truncated,1,0
+BBT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BBV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BCA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BCB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BCR,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+BCS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BCT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BCV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BDA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BDB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BDC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+BDD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BDE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BDF,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,canonical,1,1
+BDG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+BDH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BDI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BDK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,canonical,0,1
+BDL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BDM,Liti1011,0,1,1,0,1,1,0,0,0,0,1,1,1,1,0,missing,truncated,0,0
+BDN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BDP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BDQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BDR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BDS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BDT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BDV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BEA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BEB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BEC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BED,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BEE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BEF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BEG,Liti1011,1,0,1,0,1,1,0,0,0,1,1,1,1,1,0,truncated,truncated,0,0
+BEH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BEI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BEK,Liti1011,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,missing,truncated,0,0
+BEM,Liti1011,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,missing,truncated,0,0
+BEN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BEP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BEQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BER,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BES,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BET,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BEV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BFA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BFB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BFC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+BFD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BFE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BFG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BFH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BFK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BFL,Liti1011,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,missing,truncated,0,0
+BFM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BFN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BFP,Liti1011,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,mutant,truncated,1,0
+BFQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BFR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BFS,Liti1011,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,mutant,truncated,1,0
+BFT,Liti1011,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,mutant,truncated,1,0
+BFV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGE,Liti1011,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,mutant,truncated,1,0
+BGF,Liti1011,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,mutant,truncated,1,0
+BGG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+BGR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGS,Liti1011,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,mutant,truncated,1,0
+BGT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BGV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BHA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BHB,Liti1011,1,0,1,0,1,1,0,0,0,0,1,1,1,1,0,mutant,mutant,1,1
+BHC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BHD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BHE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+BHF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BHG,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,canonical,1,1
+BHH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BHI,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,canonical,1,1
+BHK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,canonical,0,1
+BHL,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,canonical,1,1
+BHM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BHN,Liti1011,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,missing,mutant,0,1
+BHP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BHQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BHR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BHS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BHT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BHV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BIA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BIB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BIC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+BID,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BIE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BIF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BIG,Liti1011,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,mutant,mutant,1,1
+BIH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BII,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BIK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BIL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BIM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BIN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BIP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BIQ,Liti1011,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,mutant,truncated,1,0
+BIR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BIS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BIT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+BKA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BKC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BKD,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+BKE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BKF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BKG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BKH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BKI,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BKK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BKL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BKM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BKN,Liti1011,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,truncated,mutant,0,1
+BKP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BKQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BKR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BKS,Liti1011,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+BKT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BLA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BLB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BLC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BLD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BLE,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,missing,mutant,0,1
+BLF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+BLG,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+BLH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BLI,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+BLK,Liti1011,1,1,0,0,1,1,0,1,0,0,1,1,1,1,0,mutant,canonical,1,1
+BLL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BLM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BLN,Liti1011,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,mutant,mutant,1,1
+BLP,Liti1011,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,mutant,mutant,1,1
+BLQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BLR,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BLS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BLT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BLV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BMA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BMB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BMC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BMD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+BME,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BMF,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,truncated,mutant,0,1
+BMG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BMH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BMI,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BMK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BML,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BMM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BMN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BMQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BMR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BMV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BNA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BNB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BNC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BND,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BNE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BNF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BNG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BNH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BNI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BNK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BNL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BNM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BNN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BNP,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+BNQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+BNR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BNT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BNV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BPA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BPB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BPC,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,missing,mutant,0,1
+BPF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BPG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BPH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BPI,Liti1011,1,1,1,1,1,0,0,0,0,0,1,1,1,1,0,mutant,truncated,1,0
+BPK,Liti1011,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,mutant,mutant,1,1
+BPL,Liti1011,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,missing,truncated,0,0
+BPM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BPN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BPP,Liti1011,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,missing,mutant,0,1
+BPQ,Liti1011,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,mutant,mutant,1,1
+BPR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BPT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BPV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BQA,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+BQB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BQC,Liti1011,1,1,0,0,1,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+BQE,Liti1011,1,1,1,0,1,1,0,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+BQG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BQH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BQI,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+BQM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+BQN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BQP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,canonical,0,1
+BQQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BQR,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BQS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BQT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BRA,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+BRB,Liti1011,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,mutant,mutant,1,1
+BRC,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+BRD,Liti1011,1,1,0,0,1,0,1,1,0,0,1,1,1,1,0,truncated,mutant,0,1
+BRE,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+BRF,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+BRG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BRH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BRK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BRL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+BRM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BRP,Liti1011,0,1,0,0,1,1,0,0,0,1,1,1,1,1,0,mutant,mutant,1,1
+BRQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BRV,Liti1011,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,mutant,truncated,1,0
+BSA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BSB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BSC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BSD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BSE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BSG,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+BSI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BSK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BSL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BSM,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,truncated,1,0
+BSN,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+BSP,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+BSR,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+BSS,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+BST,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BTA,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+BTB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BTC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+BTD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BTE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BTF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BTG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BTH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+BTI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BTL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BTN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BTP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BTR,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+BTS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+BTT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BTV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BVA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BVB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BVD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,truncated,0,0
+BVE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BVF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+BVG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+BVK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+BVM,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+BVT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+BVV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CAA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+CAB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CAC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CAD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CAE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CAF,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+CAH,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+CAI,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+CAK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CAL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CAM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CAN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CAP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CAQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CAR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CAS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+CAT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CAV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CBA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CBB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CBC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CBD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CBE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CBF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CBG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CBH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CBI,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CBK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CBL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CBM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CBN,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+CBR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+CCC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CCD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CCE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CCF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CCG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CCH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CCI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CCL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CCM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CCN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CCP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CCQ,Liti1011,0,1,0,0,1,0,0,0,0,0,1,1,1,1,0,truncated,truncated,0,0
+CCR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CCS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CCT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CCV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CDA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CDB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CDC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CDD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CDE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CDF,Liti1011,1,1,1,0,1,1,0,1,1,1,1,0,1,1,0,mutant,truncated,1,0
+CDG,Liti1011,1,1,1,0,1,1,0,1,1,1,1,0,1,1,0,mutant,truncated,1,0
+CDH,Liti1011,1,1,1,0,1,1,0,1,1,1,1,0,1,1,0,mutant,truncated,1,0
+CDI,Liti1011,1,1,1,0,1,1,0,1,1,1,1,0,1,1,0,mutant,truncated,1,0
+CDK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CDL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CDM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+CDN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CDP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CDQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CDR,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CDS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+CDT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CDV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CEA,Liti1011,1,1,1,0,1,0,0,0,0,1,1,1,1,1,0,missing,mutant,0,1
+CEB,Liti1011,1,1,1,0,1,0,0,0,1,1,1,1,1,1,0,truncated,mutant,0,1
+CEC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CED,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CEE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CEF,Liti1011,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,mutant,mutant,1,1
+CEG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CEH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+CEI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CEK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CEL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CEM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CEN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CEP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CEQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+CER,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CES,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,truncated,0,0
+CET,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CEV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,truncated,truncated,0,0
+CFA,Liti1011,1,1,1,1,1,1,0,0,0,0,1,1,1,1,0,truncated,mutant,0,1
+CFB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CFC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CFD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CFE,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+CFF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CFG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+CFH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+CFI,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+CFM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CFN,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+CFP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CFQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CFR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CFS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+CFT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,canonical,1,1
+CFV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+CGB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CGC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CGD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CGE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CGG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CGH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CGI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CGK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CGL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CGN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CGP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CGQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CGR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CGS,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,canonical,0,1
+CGT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CGV,Liti1011,0,0,0,0,1,1,0,1,0,0,1,0,1,1,0,mutant,truncated,1,0
+CHA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CHB,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,canonical,1,1
+CHC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CHD,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,truncated,1,0
+CHE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CHF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+CHG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CHH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+CHI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CHK,Liti1011,1,1,1,1,1,1,0,0,0,0,1,1,1,1,0,mutant,mutant,1,1
+CHL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+CHM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CHR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CHS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CHT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CHV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CIA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CIB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CIC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CID,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CIE,Liti1011,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+CIF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+CIG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CIH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CII,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+CIK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+CIL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,canonical,0,1
+CIM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CIN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CIP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CIQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CIR,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+CIS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CIT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CIV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,canonical,0,1
+CKB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKI,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CKL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKM,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CKP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CKS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CKT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CKV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+CLA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CLB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CLC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CLD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CLG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+CLH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CLI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CLK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CLL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CLM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CLN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CLP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CLQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CLR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CLS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CLT,Liti1011,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,truncated,truncated,0,0
+CLV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CMB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CMC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CMD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CME,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CMF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CMG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CMH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CMI,Liti1011,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,truncated,1,0
+CMK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CML,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CMM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CMN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CMP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CMQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CMS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CMT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CNB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CNC,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,canonical,1,1
+CNE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CNF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CNG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+CNH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CNI,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CNK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CNL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CNM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CNN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CNP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CNQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CNR,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CNS,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CNT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CNV,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CPA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CPB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CPC,Liti1011,1,1,0,0,1,1,0,1,0,0,0,1,1,1,0,truncated,truncated,0,0
+CPD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CPE,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,truncated,0,0
+CPF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+CPG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+CPI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CPK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CPL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CPM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CPN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CPQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CPR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CPS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+CPT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CQA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+CQB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+CQC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CQD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CQE,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CQF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CQG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CQH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CQI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CQK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CQL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CQM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CQN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CQP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CQQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CQR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+CQS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+CQT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CQV,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+CRA,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,truncated,mutant,0,1
+CRB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+CRC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CRD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+CRE,Liti1011,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,truncated,canonical,0,1
+CRG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+CRH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+CRI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+CRK,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+CRL,Liti1011,1,0,1,0,1,1,0,0,0,0,1,1,1,1,0,mutant,mutant,1,1
+GAL,Liti1011,1,1,1,0,1,1,0,0,0,0,1,1,1,1,0,mutant,mutant,1,1
+GAP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+GAS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+GAT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+GAV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+MAA,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+MAB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,mutant,mutant,1,1
+MAL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YAA,Liti1011,1,0,1,0,1,1,0,0,0,1,1,0,1,1,0,mutant,mutant,1,1
+YAB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YAC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+YAD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YAE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+YAF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YAG,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+YAK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YAM,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+YAN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+YAP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+YAQ,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,canonical,1,1
+YAR,Liti1011,1,0,0,0,1,0,0,0,0,1,1,0,1,1,0,missing,canonical,0,1
+YAT,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YAU,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YAV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YAW,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YAX,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+YAY,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YAZ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YBA,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YBB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YBE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YBF,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YBG,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YBH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YBJ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+YBK,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+YBL,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+YBM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YBN,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YBO,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+YBP,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+YBQ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+YBR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YBS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+YBT,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,canonical,0,1
+YBU,Liti1011,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,mutant,truncated,1,0
+YBV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+YBW,Liti1011,1,1,0,0,1,0,0,0,0,1,1,0,1,1,0,truncated,mutant,0,1
+YBX,Liti1011,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+YBY,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YBZ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YCA,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+YCB,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+YCC,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YCD,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YCE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+YCF,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YCG,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,canonical,1,1
+YCH,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+YCI,Liti1011,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,mutant,mutant,1,1
+YCJ,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YCK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YCL,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YCM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+YCN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YCO,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+YCP,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YCQ,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YCR,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+YCS,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+YCT,Liti1011,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,missing,mutant,0,1
+YCU,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+YCV,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,mutant,0,1
+YDB,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YDC,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YDD,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YDE,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+YDF,Liti1011,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,mutant,mutant,1,1
+YDH,Liti1011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,canonical,0,1
+YDI,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,truncated,truncated,0,0
+YDJ,Liti1011,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+YDK,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YDM,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YDN,Liti1011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YDO,Liti1011,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,mutant,mutant,1,1
+YJM1332,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM0193,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM0195,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM0244,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM0450,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM1341,FGSC,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+YJM0470,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM0541,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+YJM0554,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,canonical,1,1
+YJM0627,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM1387,FGSC,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,mutant,mutant,1,1
+YJM0969,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM0972,FGSC,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,mutant,1,1
+YJM0975,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM0978,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM0981,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM0984,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM0987,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM0990,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM0993,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM0996,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM1129,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM1190,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,canonical,1,1
+YJM1242,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM1248,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM1304,FGSC,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,mutant,canonical,1,1
+YJM1417,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM1336,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM1444,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM1342,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM1356,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM1526,FGSC,1,0,0,0,1,0,0,0,0,0,1,0,1,1,0,mutant,mutant,1,1
+YJM1386,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM1400,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM1415,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM1439,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM1477,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM1478,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM1479,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM1527,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,mutant,1,1
+YJM0189,FGSC,1,1,1,0,1,0,0,0,0,1,1,0,1,1,0,mutant,mutant,1,1
+YJM0453,FGSC,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,mutant,mutant,1,1
+YJM0689,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,mutant,1,1
+YJM1385,FGSC,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mutant,canonical,1,1
+YJM0320,FGSC,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,mutant,truncated,1,0
+YJM0248,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+YJM0271,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+YJM1307,FGSC,0,1,1,1,1,1,0,0,1,0,1,1,1,1,0,mutant,truncated,1,0
+YJM0693,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+YJM0681,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+YJM1083,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+YJM1244,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,mutant,0,1
+YJM1418,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+YJM1419,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+YJM1434,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+YJM1443,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+YJM1463,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,mutant,truncated,1,0
+YJM1199,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+YJM1202,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+YJM0326,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,missing,1,0
+YJM0456,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YJM1574,FGSC,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,missing,mutant,0,1
+YJM0682,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YJM0683,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YJM1311,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+YJM1273,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YJM1338,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YJM1401,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YJM1402,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YJM1381,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,mutant,0,1
+YJM0555,FGSC,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,missing,canonical,0,1
+YJM1549,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,canonical,0,1
+YJM1250,FGSC,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,missing,mutant,0,1
+YJM1450,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YJM1460,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YJM1326,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,truncated,mutant,0,1
+YJM1573,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YJM1615,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mutant,truncated,1,0
+YJM1433,FGSC,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,missing,mutant,0,1
+YJM1133,FGSC,1,1,0,0,1,1,0,0,0,1,1,1,1,1,0,missing,canonical,0,1
+YJM1519,FGSC,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,missing,missing,0,0
+YJM1523,FGSC,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,missing,missing,0,0
+S1,FGSC,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,missing,0,0
+YJM1081,FGSC,1,1,1,1,1,1,0,0,0,0,1,1,1,1,0,missing,missing,0,0
+YJM0270,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,truncated,0,0
+YJM0312,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,missing,0,0
+YJM0428,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YJM0451,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YJM0522,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,missing,0,0
+YJM0523,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,missing,0,0
+YJM0653,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,missing,0,0
+YJM0668,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,missing,0,0
+YJM0675,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,missing,0,0
+YJM0699,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,missing,0,0
+YJM0145,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,missing,0,0
+YJM1078,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YJM1290,FGSC,0,1,1,1,1,1,0,0,1,1,1,1,1,1,0,missing,missing,0,0
+YJM1119,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,missing,0,0
+YJM1195,FGSC,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,missing,0,0
+YJM1208,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YJM1252,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YJM1281,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,missing,0,0
+YJM1077,FGSC,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,missing,missing,0,0
+YJM1293,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,missing,0,0
+YJM1355,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,truncated,0,0
+YJM1383,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,truncated,0,0
+YJM1388,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,truncated,0,0
+YJM1389,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,truncated,0,0
+YJM1399,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YJM1447,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,truncated,0,0
+YJM0789,FGSC,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,missing,0,0
+YJM1287,FGSC,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,missing,missing,0,0
+YJM1524,FGSC,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,missing,missing,0,0
+YJM1529,FGSC,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,missing,missing,0,0
+YJM1552,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,missing,0,0
+YJM1578,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,missing,0,0
+YJM1592,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,truncated,0,0
+YJM1617,FGSC,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,missing,0,0
+YJM1618,FGSC,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,missing,missing,0,0
+YJM1628,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,missing,0,0
+YJM1846,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,missing,0,0
+YJM1847,FGSC,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,missing,missing,0,0
+YJM1869,FGSC,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,missing,missing,0,0
+YJM1870,FGSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,missing,missing,0,0
+YO0433,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0458,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO0653,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0655,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO0658,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0750,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0814,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0815,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0818,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0819,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0820,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0822,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0823,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0835,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0838,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0839,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0840,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0841,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0842,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO0843,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0844,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0846,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0847,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0849,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0850,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO0851,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO0852,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO0853,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO0854,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0855,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0856,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0857,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO0858,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0859,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0861,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO0866,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0868,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0870,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0871,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0872,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0874,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0875,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO0876,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1055,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1056,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1060,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1061,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1112,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1113,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1114,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1115,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1116,Dudley,1,0,1,0,1,1,1,0,0,1,1,1,1,1,0,no data,no data,-,-
+YO1117,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1119,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1124,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1125,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1126,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1128,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1129,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1130,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1132,Dudley,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1133,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1134,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1135,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1137,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1138,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1140,Dudley,1,0,1,0,0,1,0,0,0,1,0,0,1,1,0,no data,no data,-,-
+YO1200,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1201,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1224,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1225,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1226,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1228,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1348,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1349,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1357,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1477,Dudley,1,0,1,1,1,1,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1478,Dudley,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1479,Dudley,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1480,Dudley,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1481,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1482,Dudley,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1485,Dudley,1,0,1,1,1,1,0,0,0,0,1,1,1,1,0,no data,no data,-,-
+YO1487,Dudley,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,no data,no data,-,-
+YO1489,Dudley,1,0,1,1,1,1,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1490,Dudley,1,0,1,0,1,1,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1594,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1595,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1599,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1600,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1601,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1604,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1605,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1608,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1609,Dudley,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,no data,no data,-,-
+YO1610,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1611,Dudley,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1612,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1613,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1615,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1619,Dudley,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1620,Dudley,1,0,1,1,1,1,0,0,0,0,1,1,1,1,0,no data,no data,-,-
+YO1621,Dudley,1,0,1,1,1,1,0,0,0,0,1,1,1,1,0,no data,no data,-,-
+YO1622,Dudley,1,0,1,1,1,1,0,0,0,0,1,1,1,1,0,no data,no data,-,-
+YO1658,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1659,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1660,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1661,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1662,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1663,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1665,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1666,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1667,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1669,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1671,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1675,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1676,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1680,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1681,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1682,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1696,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1697,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1701,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1705,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1706,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1707,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1713,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1715,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1717,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1719,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1722,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1723,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1724,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1880,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1882,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1885,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1888,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1889,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1890,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1891,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1892,Dudley,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,no data,no data,-,-
+YO1893,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+YO1919,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1924,Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+YO1925,Dudley,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+Y-2429,Misc,0,0,1,1,1,1,0,0,0,0,1,1,1,1,0,no data,no data,-,-
+NCYC190,Misc,0,0,1,1,1,1,0,0,0,0,1,1,1,1,0,no data,no data,-,-
+BJH001,Misc,1,0,1,1,1,1,0,0,0,0,1,1,1,1,0,no data,no data,-,-
+NCYC738,Misc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no data,no data,-,-
+NCYC1001,Misc,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,no data,no data,-,-
+CYC1170,Misc,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,no data,no data,-,-
+CYC1058,Misc,0,0,1,0,1,1,1,1,1,1,1,1,1,1,0,no data,no data,-,-
+MS300c,Misc,1,0,1,1,1,0,0,0,0,1,0,0,1,1,0,no data,no data,-,-
+DSM70459,Misc,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,no data,no data,-,-
